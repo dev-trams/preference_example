@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_str">
+        <item>Red(빨간색)</item>
+        <item>Blue(파랑색)</item>
+        <item>Green(녹색)</item>
+        <item>Black(검정색)</item>
+    </string-array>
+
+    <string-array name="text_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="screen_str">
+        <item>Red(빨간색)</item>
+        <item>Blue(파랑색)</item>
+        <item>Green(녹색)</item>
+        <item>White(흰색)</item>
+    </string-array>
+
+    <string-array name="screen_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
